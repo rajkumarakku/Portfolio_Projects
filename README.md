@@ -1,72 +1,25 @@
 # Excel Projects Portfolio
 
-Welcome to the Excel Projects branch of my portfolio repository. This branch contains a growing collection of Excel-based data analysis, reporting, and dashboard projects built to demonstrate practical business analytics and problem-solving skills using Microsoft Excel.
+Welcome to the Excel Projects branch of my portfolio repository. This repository contains a collection of Excel projects focused on data analysis, dashboard development, reporting, and business insights generation.
 
-The projects included here focus on transforming raw data into meaningful insights through data cleaning, visualization, dashboard creation, and analytical reporting.
+The projects included here demonstrate practical experience in transforming raw data into meaningful insights through data cleaning, visualization, analytical reporting, and interactive dashboards using Microsoft Excel.
 
 ---
 
 # 📌 Repository Overview
 
-This repository is designed to showcase hands-on Excel projects covering:
+This repository showcases projects covering:
 
 - Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
+- Interactive Dashboard Development
+- Data Visualization
+- Business Reporting
+- KPI Tracking & Monitoring
 - Pivot Tables & Pivot Charts
-- Interactive Dashboards
-- KPI Tracking & Reporting
 - Sales & Customer Analytics
-- Business Insights Generation
-- Reporting Automation
-- Data Visualization Techniques
+- Business Insights & Reporting
 
-New projects will continue to be added over time as part of my learning and portfolio development journey.
-
----
-
-# 📁 Projects
-
-## 1. Sales Dashboard Analysis
-### Overview
-Built an interactive Excel dashboard to analyze sales performance and business KPIs.
-
-### Key Features
-- KPI tracking
-- Pivot charts
-- Dynamic filtering using slicers
-- Revenue and profit analysis
-
-### Skills Used
-Excel, Pivot Tables, Dashboard Design, Data Visualization
-
----
-
-## 2. Customer Insights Analysis
-### Overview
-Performed customer behavior analysis using Excel to identify trends and purchasing patterns.
-
-### Key Features
-- Customer segmentation
-- Trend analysis
-- Data cleaning
-- Summary reporting
-
-### Skills Used
-Excel, Data Cleaning, Pivot Tables, Reporting
-
----
-
-## 3. [Future Project Name]
-### Overview
-Short explanation about the project.
-
-### Key Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-### Skills Used
-Excel, Analysis, Dashboarding
+Each project contains its own dedicated README file with detailed explanations, datasets, dashboard previews, key insights, and tools used.
 
 ---
 
@@ -76,35 +29,15 @@ Excel, Analysis, Dashboarding
 - Pivot Tables & Pivot Charts
 - Power Query
 - Conditional Formatting
-- Lookup Functions (VLOOKUP, XLOOKUP, INDEX-MATCH)
-- Data Validation
-- Dashboard Design
-- Excel Formulas & Functions
+- Lookup Functions (VLOOKUP/XLOOKUP)
 - Data Cleaning & Transformation
+- Dashboard Design
+- KPI Reporting
 - Business Reporting
+- Data Visualization
 
 ---
 
-# 📂 Repository Structure
+# 🚀 Continuous Learning
 
-```text
-Excel-Projects/
-│
-├── Project_Name_1/
-│   ├── Dataset/
-│   ├── Dashboard/
-│   ├── Screenshots/
-│   ├── Documentation/
-│   └── README.md
-│
-├── Project_Name_2/
-│   ├── Dataset/
-│   ├── Analysis/
-│   ├── Dashboard/
-│   ├── Screenshots/
-│   └── README.md
-│
-├── Project_Name_3/
-│   └── ...
-│
-└── README.md
+This repository will continue to grow with new Excel projects focused on solving real-world business problems and improving analytical, reporting, and dashboard development skills.
