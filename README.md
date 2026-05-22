@@ -40,20 +40,3 @@ Each project contains its own dedicated README file with detailed explanations, 
 # 🚀 Continuous Learning
 
 This repository will continue to grow with new Power BI projects focused on solving real-world business problems and improving analytical and visualization skills.
-
----
-
-# 👨‍💻 Author
-
-Rajkumar Akku  
-Aspiring Data Analyst / BI Developer
-
-## Skills
-- Power BI
-- SQL
-- Excel
-- DAX
-- Data Visualization
-- Dashboard Development
-
----
