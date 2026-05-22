@@ -1,0 +1,701 @@
+product_id,product_name,price,cogs,category_id
+1,Sleeping Bag Pro 1,208.54,110.93,6
+2,Tablet Model 1,240.06,104.67,1
+3,Toaster Series 3,131.58,65.93,3
+4,Sleeping Bag Pro 5,201.44,92.71,6
+5,Sweater Style 4,52.95,31.6,2
+6,Exercise Bike Pro 2,214.85,118.78,6
+7,Tablet Model 1,452.52,190.22,1
+8,Tablet Model 5,488.18,192.54,1
+9,Dumbbell Set Pro 4,268.86,132.51,6
+10,Dress Style 2,39.66,18.58,2
+11,Vacuum Cleaner Series 4,294.35,123.57,3
+12,Sweater Style 5,64.35,33.9,2
+13,Laptop Model 2,446.04,190.3,1
+14,Headphones Model 4,347.94,153.24,1
+15,Food Processor Series 1,229.09,76.6,3
+16,Puzzle Edition 3,28.92,12.45,5
+17,Dog Food Pack 3,97.47,51.52,4
+18,Board Game Edition 3,87.33,39.5,5
+19,Sweater Style 3,91.25,42.14,2
+20,Building Blocks Edition 5,45.93,14.05,5
+21,Air Fryer Series 2,42.38,23.88,3
+22,Smartphone Model 4,458.01,271.78,1
+23,Action Figure Edition 2,72.78,42.51,5
+24,Dress Style 5,102.24,43.65,2
+25,Hoodie Style 2,86.29,36.22,2
+26,Helmet Pro 4,272.9,118.83,6
+27,Jacket Style 1,48.81,23.26,2
+28,Polo Shirt Style 2,15.72,8.05,2
+29,Tablet Model 1,502.71,280.46,1
+30,Camera Model 2,189.24,84.33,1
+31,Action Figure Edition 5,66.1,24.65,5
+32,Pet Bowl Pack 2,18.49,9.2,4
+33,Cookware Set Series 4,165.11,85.65,3
+34,Sleeping Bag Pro 1,138.71,55.73,6
+35,Tablet Model 2,145.1,63.06,1
+36,Pet Bed Pack 3,51.64,29.04,4
+37,Power Bank Model 5,98.95,49.04,1
+38,Building Blocks Edition 1,94.11,52.19,5
+39,Shorts Style 4,63.14,35.32,2
+40,Laptop Model 4,51.08,21.31,1
+41,Leash Pack 4,72.69,37.74,4
+42,Educational Toy Edition 2,35.19,12.86,5
+43,Monitor Model 5,80.48,31.72,1
+44,Monitor Model 4,301.43,167.54,1
+45,T-Shirt Style 5,23.01,8.19,2
+46,Board Game Edition 2,52.3,30.46,5
+47,Doll Edition 5,67.56,32.82,5
+48,Pet Grooming Kit Pack 5,57.05,33.11,4
+49,Skirt Style 2,41.56,14.1,2
+50,Bicycle Pro 4,115.37,60.63,6
+51,Wireless Earbuds Model 4,360.58,169.08,1
+52,Smartphone Model 5,156.58,59.43,1
+53,Blender Series 2,135.86,47.19,3
+54,Puzzle Edition 5,98.71,53.51,5
+55,Building Blocks Edition 5,43.95,21.93,5
+56,Dress Style 1,103.97,54.35,2
+57,Dress Style 3,75.48,38.89,2
+58,Dress Style 5,63.85,36.5,2
+59,Smartphone Model 4,464.67,145.55,1
+60,Toaster Series 3,73.47,31.78,3
+61,Yoga Mat Pro 5,32.61,10.52,6
+62,Backpack Pro 5,39.73,16.32,6
+63,Action Figure Edition 4,30.2,11.85,5
+64,Bluetooth Speaker Model 2,391.03,195.55,1
+65,Food Processor Series 4,317.15,166.45,3
+66,Sweater Style 2,103.14,31.71,2
+67,Helmet Pro 4,246.6,137.9,6
+68,Dress Style 2,93.74,31.16,2
+69,Power Bank Model 2,149.79,86.21,1
+70,Air Fryer Series 2,91.88,45.76,3
+71,Collar Pack 3,87.79,51.8,4
+72,Mixer Series 5,144.9,86.12,3
+73,Remote Control Car Edition 1,29.23,17.28,5
+74,Polo Shirt Style 3,18.83,9.02,2
+75,Mixer Series 4,206.86,93.8,3
+76,Pet Grooming Kit Pack 2,32.93,16.88,4
+77,Camera Model 5,393.43,229.01,1
+78,Hiking Boots Pro 3,146.45,85.62,6
+79,Vacuum Cleaner Series 3,224.02,75.58,3
+80,Food Processor Series 3,225.07,89.55,3
+81,Bicycle Pro 5,64.37,27.43,6
+82,Pet Bed Pack 5,61.22,25.82,4
+83,Smart Watch Model 3,155.09,83.09,1
+84,Remote Control Car Edition 4,55.34,27.82,5
+85,Educational Toy Edition 2,72.71,28.0,5
+86,Treadmill Pro 3,55.21,32.33,6
+87,Dress Style 2,95.66,32.93,2
+88,Tablet Model 4,355.64,188.68,1
+89,Pet Bowl Pack 5,27.5,13.99,4
+90,Pet Bowl Pack 2,23.28,11.79,4
+91,Headphones Model 2,137.94,81.02,1
+92,Educational Toy Edition 1,64.59,37.15,5
+93,Power Bank Model 2,450.71,225.48,1
+94,Art Set Edition 3,96.0,54.47,5
+95,Outdoor Play Set Edition 4,86.45,40.14,5
+96,Coat Style 4,40.92,15.31,2
+97,Bicycle Pro 5,160.84,59.8,6
+98,Cat Food Pack 3,31.1,12.46,4
+99,Board Game Edition 2,32.07,13.31,5
+100,Jacket Style 1,56.49,22.55,2
+101,Pet Bowl Pack 1,28.62,12.19,4
+102,Building Blocks Edition 5,50.43,15.22,5
+103,Air Fryer Series 4,281.03,164.69,3
+104,Bird Cage Pack 5,81.99,46.68,4
+105,Pet Toy Pack 3,49.23,15.2,4
+106,Cookware Set Series 2,277.15,159.6,3
+107,Outdoor Play Set Edition 1,92.55,44.2,5
+108,Tent Pro 1,203.54,69.35,6
+109,Pet Bed Pack 1,33.41,13.3,4
+110,Collar Pack 3,78.51,32.48,4
+111,Leash Pack 1,52.33,27.46,4
+112,Bluetooth Speaker Model 2,375.07,200.43,1
+113,Tent Pro 1,286.4,103.05,6
+114,Monitor Model 2,169.27,74.83,1
+115,Monitor Model 2,282.52,106.47,1
+116,Toaster Series 5,207.17,108.64,3
+117,Laptop Model 3,104.05,32.02,1
+118,Vacuum Cleaner Series 4,144.0,74.09,3
+119,Monitor Model 2,100.95,53.68,1
+120,Treadmill Pro 1,244.98,115.09,6
+121,Bluetooth Speaker Model 5,264.19,108.63,1
+122,Remote Control Car Edition 1,87.97,48.09,5
+123,Headphones Model 3,367.79,201.77,1
+124,Backpack Pro 4,77.56,35.41,6
+125,Bicycle Pro 5,248.21,114.54,6
+126,Aquarium Pack 4,84.32,40.28,4
+127,Microwave Series 1,108.68,47.3,3
+128,Pet Grooming Kit Pack 5,70.14,28.12,4
+129,Collar Pack 2,53.88,21.9,4
+130,Mixer Series 3,289.1,147.54,3
+131,Food Processor Series 1,179.99,64.31,3
+132,Shorts Style 4,70.52,26.24,2
+133,Aquarium Pack 4,81.36,26.68,4
+134,Shorts Style 2,45.62,21.65,2
+135,Bird Cage Pack 5,40.94,24.52,4
+136,Remote Control Car Edition 3,76.23,29.06,5
+137,Microwave Series 1,241.39,95.27,3
+138,Exercise Bike Pro 2,81.72,42.62,6
+139,Vacuum Cleaner Series 5,204.04,121.23,3
+140,Dress Style 2,51.09,19.96,2
+141,Exercise Bike Pro 2,104.06,61.63,6
+142,Puzzle Edition 2,71.03,37.35,5
+143,Wireless Earbuds Model 5,192.17,85.25,1
+144,Toaster Series 1,100.74,56.26,3
+145,Smartphone Model 4,295.87,139.98,1
+146,Tent Pro 2,70.28,32.95,6
+147,Blender Series 2,60.54,32.05,3
+148,Art Set Edition 5,38.05,17.38,5
+149,Aquarium Pack 3,87.41,52.18,4
+150,Vacuum Cleaner Series 5,43.07,25.33,3
+151,Tablet Model 2,182.32,59.14,1
+152,Sweater Style 5,22.51,6.77,2
+153,Pet Grooming Kit Pack 4,36.21,13.38,4
+154,Bicycle Pro 4,49.22,18.21,6
+155,Vacuum Cleaner Series 2,152.54,70.68,3
+156,Backpack Pro 3,253.19,81.38,6
+157,Dress Style 5,89.9,42.32,2
+158,Knife Set Series 1,165.61,64.79,3
+159,Leash Pack 5,58.6,25.28,4
+160,Building Blocks Edition 4,78.76,37.89,5
+161,Smartphone Model 2,530.96,292.45,1
+162,Art Set Edition 1,99.97,50.15,5
+163,Vacuum Cleaner Series 1,253.93,89.52,3
+164,Educational Toy Edition 3,34.52,16.42,5
+165,Dumbbell Set Pro 1,156.9,66.29,6
+166,Blender Series 2,123.94,62.97,3
+167,Cookware Set Series 5,36.01,11.75,3
+168,Mixer Series 1,316.06,133.14,3
+169,Building Blocks Edition 5,56.96,18.01,5
+170,Remote Control Car Edition 5,80.52,39.26,5
+171,Tablet Model 3,324.61,187.72,1
+172,Aquarium Pack 1,12.6,6.16,4
+173,Sweater Style 3,70.08,32.63,2
+174,Tablet Model 1,280.72,94.11,1
+175,Coat Style 3,65.89,25.17,2
+176,Aquarium Pack 2,51.11,17.55,4
+177,Polo Shirt Style 5,89.63,30.56,2
+178,Smart Watch Model 4,219.94,117.96,1
+179,Coffee Maker Series 3,242.82,133.85,3
+180,Educational Toy Edition 2,55.72,24.81,5
+181,Food Processor Series 5,138.16,80.11,3
+182,Jacket Style 5,53.3,29.68,2
+183,Dog Food Pack 3,77.02,39.4,4
+184,Pet Bowl Pack 2,54.58,16.98,4
+185,Art Set Edition 3,89.58,50.37,5
+186,Cat Food Pack 5,91.94,28.01,4
+187,Shorts Style 2,22.48,12.01,2
+188,Mixer Series 5,232.81,115.23,3
+189,Food Processor Series 4,311.24,151.9,3
+190,Bird Cage Pack 1,65.57,24.29,4
+191,Bicycle Pro 2,231.63,99.65,6
+192,Smartphone Model 4,133.18,51.92,1
+193,Wireless Earbuds Model 3,448.07,173.86,1
+194,Cookware Set Series 2,98.26,41.62,3
+195,Backpack Pro 2,77.27,37.31,6
+196,Pet Grooming Kit Pack 2,54.79,26.02,4
+197,Coat Style 3,60.96,30.48,2
+198,Leash Pack 5,24.22,10.48,4
+199,Vacuum Cleaner Series 3,216.68,92.59,3
+200,Knife Set Series 3,84.77,35.21,3
+201,Cat Food Pack 2,44.32,18.07,4
+202,Air Fryer Series 1,318.38,158.38,3
+203,Coffee Maker Series 5,284.52,151.79,3
+204,Monitor Model 4,466.42,266.27,1
+205,Polo Shirt Style 3,36.9,13.17,2
+206,Toaster Series 1,296.02,146.2,3
+207,Knife Set Series 1,198.87,103.35,3
+208,Smart Watch Model 3,423.74,149.45,1
+209,Hoodie Style 3,68.09,39.09,2
+210,Dress Style 4,111.74,43.42,2
+211,Blender Series 4,313.87,107.41,3
+212,Shorts Style 5,51.58,27.71,2
+213,Smart Watch Model 5,111.79,45.9,1
+214,Bicycle Pro 5,132.88,65.32,6
+215,Blender Series 2,166.44,80.87,3
+216,Remote Control Car Edition 5,37.71,12.03,5
+217,Leash Pack 4,20.5,6.43,4
+218,Smart Watch Model 4,108.06,40.03,1
+219,Action Figure Edition 4,56.29,28.21,5
+220,Exercise Bike Pro 4,188.58,97.68,6
+221,Cat Food Pack 4,65.41,38.05,4
+222,Coffee Maker Series 3,90.18,39.08,3
+223,Skirt Style 1,113.09,46.39,2
+224,Helmet Pro 1,137.5,49.08,6
+225,Power Bank Model 1,381.38,187.83,1
+226,Building Blocks Edition 1,82.94,30.94,5
+227,Polo Shirt Style 2,21.86,11.58,2
+228,Polo Shirt Style 2,96.31,35.63,2
+229,Polo Shirt Style 1,42.73,25.43,2
+230,Hoodie Style 3,94.85,31.58,2
+231,Laptop Model 1,229.12,122.93,1
+232,Remote Control Car Edition 1,33.94,10.72,5
+233,Yoga Mat Pro 5,60.69,19.36,6
+234,Collar Pack 5,63.43,27.63,4
+235,Polo Shirt Style 1,87.72,50.23,2
+236,Exercise Bike Pro 3,153.67,90.54,6
+237,Power Bank Model 4,263.14,87.46,1
+238,Dumbbell Set Pro 1,272.8,108.2,6
+239,Jeans Style 2,42.5,20.82,2
+240,Remote Control Car Edition 4,99.57,45.72,5
+241,Bird Cage Pack 5,48.72,26.21,4
+242,Camera Model 2,265.03,150.12,1
+243,Collar Pack 4,45.89,23.81,4
+244,Cookware Set Series 3,224.53,92.57,3
+245,Coat Style 1,24.12,7.85,2
+246,Cat Food Pack 3,83.06,38.78,4
+247,Outdoor Play Set Edition 5,46.37,15.61,5
+248,Cookware Set Series 1,315.52,151.49,3
+249,Blender Series 5,177.22,61.39,3
+250,Pet Toy Pack 1,41.51,19.38,4
+251,Smart Watch Model 5,163.08,69.92,1
+252,Art Set Edition 5,74.0,34.56,5
+253,Puzzle Edition 1,34.43,17.59,5
+254,Mixer Series 3,26.83,15.05,3
+255,Stuffed Animal Edition 1,31.35,15.36,5
+256,Smartphone Model 5,157.57,67.12,1
+257,Toaster Series 3,118.49,47.08,3
+258,Art Set Edition 1,90.67,31.43,5
+259,Building Blocks Edition 1,41.77,20.83,5
+260,Pet Grooming Kit Pack 4,47.28,17.24,4
+261,Board Game Edition 3,54.39,20.94,5
+262,Treadmill Pro 4,172.27,67.62,6
+263,Shorts Style 5,20.48,7.4,2
+264,Sweater Style 3,43.94,14.76,2
+265,Pet Bowl Pack 2,21.63,9.94,4
+266,Hoodie Style 5,98.34,53.29,2
+267,Headphones Model 1,268.11,117.41,1
+268,Bluetooth Speaker Model 5,264.64,111.5,1
+269,Yoga Mat Pro 3,61.1,18.71,6
+270,Toaster Series 5,163.03,82.64,3
+271,Blender Series 4,278.35,103.82,3
+272,Stuffed Animal Edition 5,26.29,14.75,5
+273,Helmet Pro 2,119.93,42.03,6
+274,Board Game Edition 5,60.8,34.76,5
+275,Mixer Series 2,95.88,32.98,3
+276,Sweater Style 5,30.29,15.99,2
+277,Laptop Model 4,281.98,132.28,1
+278,Educational Toy Edition 5,71.44,42.58,5
+279,Mixer Series 2,156.93,69.16,3
+280,Bicycle Pro 3,189.68,76.93,6
+281,Smart Watch Model 4,275.96,87.5,1
+282,Blender Series 1,209.5,94.72,3
+283,Pet Grooming Kit Pack 5,95.88,50.02,4
+284,Power Bank Model 5,375.92,149.04,1
+285,Bird Cage Pack 2,96.2,41.86,4
+286,Blender Series 5,218.84,68.22,3
+287,Dumbbell Set Pro 4,171.5,82.82,6
+288,Mixer Series 3,141.22,75.18,3
+289,Treadmill Pro 1,243.09,120.13,6
+290,Bluetooth Speaker Model 1,328.98,136.85,1
+291,Vacuum Cleaner Series 2,125.01,59.36,3
+292,Skirt Style 3,111.77,56.95,2
+293,Pet Bed Pack 5,73.8,24.02,4
+294,Stuffed Animal Edition 3,85.05,42.61,5
+295,Exercise Bike Pro 1,204.43,87.3,6
+296,Coffee Maker Series 3,117.66,68.87,3
+297,Knife Set Series 2,92.96,31.72,3
+298,Smart Watch Model 1,303.84,140.35,1
+299,Exercise Bike Pro 1,208.72,117.49,6
+300,Action Figure Edition 5,50.14,17.48,5
+301,Treadmill Pro 2,224.72,70.36,6
+302,Microwave Series 4,208.18,109.44,3
+303,Pet Toy Pack 5,31.53,18.59,4
+304,Pet Toy Pack 3,71.05,33.47,4
+305,Aquarium Pack 3,80.03,36.08,4
+306,Pet Bed Pack 2,82.11,28.04,4
+307,Coffee Maker Series 4,287.24,133.96,3
+308,Camera Model 1,192.53,101.84,1
+309,Knife Set Series 5,69.2,29.84,3
+310,Coat Style 3,108.05,45.86,2
+311,Bird Cage Pack 3,31.22,18.68,4
+312,Microwave Series 1,120.61,39.77,3
+313,Helmet Pro 2,67.15,25.92,6
+314,Pet Bed Pack 4,50.37,15.19,4
+315,Wireless Earbuds Model 3,157.83,54.43,1
+316,Treadmill Pro 5,144.28,76.88,6
+317,Dress Style 1,19.77,8.42,2
+318,Educational Toy Edition 1,28.87,16.5,5
+319,Outdoor Play Set Edition 1,70.56,33.34,5
+320,Backpack Pro 3,145.89,70.68,6
+321,Polo Shirt Style 4,33.73,16.88,2
+322,Remote Control Car Edition 1,96.27,44.59,5
+323,Outdoor Play Set Edition 1,51.24,22.6,5
+324,Yoga Mat Pro 3,98.49,30.03,6
+325,Bluetooth Speaker Model 2,416.47,203.44,1
+326,Remote Control Car Edition 2,23.55,10.92,5
+327,Backpack Pro 4,294.82,130.77,6
+328,Sweater Style 1,86.6,50.49,2
+329,Smart Watch Model 2,71.9,25.87,1
+330,Bluetooth Speaker Model 3,307.69,183.61,1
+331,Educational Toy Edition 3,22.93,11.33,5
+332,Mixer Series 1,284.74,113.78,3
+333,Bluetooth Speaker Model 4,494.74,258.75,1
+334,Collar Pack 2,54.66,24.56,4
+335,Puzzle Edition 1,78.17,25.3,5
+336,Action Figure Edition 5,43.5,14.39,5
+337,Air Fryer Series 3,158.77,81.81,3
+338,Coat Style 3,59.71,30.93,2
+339,Vacuum Cleaner Series 4,107.37,63.78,3
+340,Smartphone Model 4,231.66,125.17,1
+341,Backpack Pro 1,68.55,33.06,6
+342,Dog Food Pack 2,16.05,8.56,4
+343,Mixer Series 4,309.84,95.96,3
+344,Coat Style 3,52.2,27.61,2
+345,Action Figure Edition 5,49.36,19.46,5
+346,Microwave Series 1,32.77,11.66,3
+347,Stuffed Animal Edition 5,29.42,15.67,5
+348,Dumbbell Set Pro 2,299.02,115.32,6
+349,Pet Toy Pack 1,22.22,7.16,4
+350,Coat Style 1,96.05,56.7,2
+351,Mixer Series 1,190.0,73.55,3
+352,Toaster Series 2,263.11,119.09,3
+353,Tablet Model 2,168.37,75.46,1
+354,Food Processor Series 5,135.67,73.41,3
+355,Action Figure Edition 5,90.74,29.01,5
+356,Aquarium Pack 5,46.97,19.86,4
+357,Board Game Edition 2,97.79,48.18,5
+358,Aquarium Pack 5,41.01,23.1,4
+359,Art Set Edition 2,81.42,27.58,5
+360,Building Blocks Edition 1,61.45,24.04,5
+361,Skirt Style 2,49.6,28.88,2
+362,Blender Series 3,83.89,49.24,3
+363,Toaster Series 3,209.33,68.67,3
+364,Backpack Pro 5,284.23,98.42,6
+365,Treadmill Pro 5,121.16,69.93,6
+366,Wireless Earbuds Model 1,72.73,35.81,1
+367,Puzzle Edition 2,81.36,34.58,5
+368,Tent Pro 4,270.03,125.21,6
+369,Bicycle Pro 4,96.12,52.12,6
+370,Leash Pack 4,16.57,5.27,4
+371,Pet Bowl Pack 4,51.8,20.83,4
+372,Skirt Style 3,88.42,49.36,2
+373,Pet Bed Pack 3,56.35,18.7,4
+374,Coat Style 1,41.75,15.63,2
+375,Wireless Earbuds Model 3,522.69,292.31,1
+376,Pet Toy Pack 2,83.21,48.27,4
+377,Helmet Pro 2,236.04,106.1,6
+378,Educational Toy Edition 4,90.33,40.58,5
+379,Headphones Model 5,278.62,103.71,1
+380,Remote Control Car Edition 1,24.04,10.78,5
+381,Dumbbell Set Pro 3,174.91,96.93,6
+382,Pet Bed Pack 3,75.48,39.94,4
+383,Coffee Maker Series 4,40.35,18.91,3
+384,Food Processor Series 3,47.06,21.24,3
+385,Puzzle Edition 5,74.43,24.98,5
+386,Headphones Model 3,447.45,179.75,1
+387,Toaster Series 2,205.74,86.5,3
+388,Wireless Earbuds Model 1,118.52,47.4,1
+389,Bird Cage Pack 4,23.4,13.29,4
+390,Skirt Style 5,46.85,19.58,2
+391,Puzzle Edition 5,46.91,25.73,5
+392,Educational Toy Edition 5,43.98,23.96,5
+393,Mixer Series 1,318.97,151.55,3
+394,Tent Pro 5,158.14,93.32,6
+395,Art Set Edition 2,77.71,36.92,5
+396,Hoodie Style 5,92.46,38.28,2
+397,Hiking Boots Pro 1,184.59,94.17,6
+398,T-Shirt Style 4,46.37,16.02,2
+399,Hiking Boots Pro 4,165.49,80.01,6
+400,Dog Food Pack 2,56.68,26.54,4
+401,Dumbbell Set Pro 5,131.74,77.33,6
+402,Bird Cage Pack 3,59.16,29.74,4
+403,Bicycle Pro 5,160.73,94.38,6
+404,Food Processor Series 3,92.46,54.72,3
+405,Air Fryer Series 2,232.07,103.67,3
+406,Collar Pack 5,94.03,50.65,4
+407,Air Fryer Series 1,197.04,91.22,3
+408,Collar Pack 2,36.14,13.96,4
+409,Sleeping Bag Pro 3,279.48,138.84,6
+410,Dumbbell Set Pro 2,84.56,39.03,6
+411,Puzzle Edition 2,28.74,15.01,5
+412,Jacket Style 1,81.98,37.65,2
+413,Hiking Boots Pro 1,57.05,22.77,6
+414,Cat Food Pack 2,10.47,4.87,4
+415,Shorts Style 4,62.74,22.58,2
+416,Mixer Series 3,218.77,125.22,3
+417,Monitor Model 2,317.58,164.17,1
+418,Laptop Model 4,491.12,173.24,1
+419,Headphones Model 4,143.16,75.12,1
+420,Coffee Maker Series 1,114.52,55.07,3
+421,Air Fryer Series 4,321.73,148.96,3
+422,Pet Bed Pack 5,52.12,18.65,4
+423,Bluetooth Speaker Model 2,415.56,205.49,1
+424,Backpack Pro 1,228.89,122.97,6
+425,Doll Edition 2,68.88,33.86,5
+426,Pet Bowl Pack 5,39.51,16.6,4
+427,Laptop Model 2,288.73,167.68,1
+428,Smart Watch Model 4,167.76,88.26,1
+429,Air Fryer Series 5,241.86,73.39,3
+430,Helmet Pro 2,46.77,15.69,6
+431,Toaster Series 4,230.82,133.17,3
+432,Bicycle Pro 1,202.45,117.86,6
+433,Vacuum Cleaner Series 2,90.74,30.86,3
+434,Coat Style 5,52.36,26.73,2
+435,Bird Cage Pack 2,78.57,39.61,4
+436,Board Game Edition 5,55.74,28.49,5
+437,Monitor Model 1,80.88,37.55,1
+438,Doll Edition 5,62.93,21.99,5
+439,Educational Toy Edition 1,74.42,38.33,5
+440,Cat Food Pack 5,50.09,15.86,4
+441,Hoodie Style 4,60.68,19.26,2
+442,Leash Pack 1,45.64,24.87,4
+443,Hiking Boots Pro 5,49.72,21.24,6
+444,Sleeping Bag Pro 5,298.41,173.19,6
+445,Power Bank Model 1,193.55,68.52,1
+446,Shorts Style 3,114.29,47.4,2
+447,Pet Bowl Pack 1,71.45,35.62,4
+448,Action Figure Edition 3,29.49,17.63,5
+449,Bird Cage Pack 2,75.51,27.7,4
+450,Wireless Earbuds Model 3,281.5,145.18,1
+451,Bird Cage Pack 4,84.1,31.47,4
+452,Toaster Series 3,81.54,45.87,3
+453,Wireless Earbuds Model 4,357.46,207.64,1
+454,Tablet Model 2,83.65,40.0,1
+455,Pet Grooming Kit Pack 1,32.03,10.03,4
+456,Pet Toy Pack 5,29.55,16.52,4
+457,Laptop Model 5,546.74,202.43,1
+458,Treadmill Pro 3,185.92,98.87,6
+459,Microwave Series 3,287.88,171.49,3
+460,Doll Edition 4,44.04,14.02,5
+461,Action Figure Edition 4,64.47,20.25,5
+462,Cookware Set Series 5,120.62,51.25,3
+463,Dress Style 4,33.39,15.41,2
+464,Jacket Style 3,100.75,34.59,2
+465,Dog Food Pack 5,47.14,20.03,4
+466,Action Figure Edition 4,39.43,14.23,5
+467,Sleeping Bag Pro 4,258.73,84.8,6
+468,Hiking Boots Pro 1,102.48,51.46,6
+469,Building Blocks Edition 1,35.05,18.52,5
+470,Exercise Bike Pro 2,159.44,89.42,6
+471,Air Fryer Series 1,88.54,31.61,3
+472,Sleeping Bag Pro 4,276.9,140.86,6
+473,Hiking Boots Pro 4,277.08,129.02,6
+474,Cookware Set Series 4,185.1,75.48,3
+475,Mixer Series 5,289.84,127.47,3
+476,Dumbbell Set Pro 3,276.87,113.85,6
+477,Dog Food Pack 5,87.77,45.85,4
+478,Smart Watch Model 5,517.38,245.11,1
+479,Leash Pack 2,27.66,10.21,4
+480,Doll Edition 4,64.05,37.34,5
+481,Air Fryer Series 4,314.95,155.12,3
+482,Aquarium Pack 2,75.95,30.81,4
+483,Hoodie Style 4,33.4,18.93,2
+484,Tent Pro 5,39.13,21.68,6
+485,Tent Pro 1,141.35,78.13,6
+486,Jeans Style 2,15.91,7.19,2
+487,Coffee Maker Series 5,216.32,125.5,3
+488,Aquarium Pack 1,10.6,4.93,4
+489,Wireless Earbuds Model 5,411.1,189.4,1
+490,Coffee Maker Series 5,268.95,135.07,3
+491,Jeans Style 1,67.44,25.11,2
+492,Outdoor Play Set Edition 3,85.22,32.4,5
+493,Cat Food Pack 3,96.34,42.17,4
+494,Jacket Style 3,83.4,46.23,2
+495,Tent Pro 1,139.43,57.61,6
+496,Dog Food Pack 1,73.26,23.8,4
+497,Collar Pack 5,97.96,58.01,4
+498,Building Blocks Edition 2,36.91,20.69,5
+499,Educational Toy Edition 3,23.72,7.65,5
+500,Food Processor Series 5,222.43,78.7,3
+501,Coffee Maker Series 2,201.11,105.72,3
+502,Yoga Mat Pro 1,110.8,51.99,6
+503,Stuffed Animal Edition 5,46.54,24.51,5
+504,Jeans Style 5,89.55,36.16,2
+505,Headphones Model 2,469.34,188.76,1
+506,Art Set Edition 4,97.51,38.8,5
+507,Bicycle Pro 4,162.46,66.08,6
+508,Pet Bowl Pack 2,71.17,35.46,4
+509,Monitor Model 3,449.03,230.77,1
+510,Smart Watch Model 2,240.0,128.44,1
+511,Shorts Style 3,51.07,16.72,2
+512,Knife Set Series 3,253.4,83.79,3
+513,Laptop Model 4,274.42,128.0,1
+514,Cat Food Pack 1,18.07,8.43,4
+515,Art Set Edition 3,89.1,27.06,5
+516,Pet Bowl Pack 1,75.24,35.2,4
+517,Polo Shirt Style 5,31.96,13.24,2
+518,Dress Style 3,41.84,14.38,2
+519,Shorts Style 3,57.11,25.43,2
+520,Bluetooth Speaker Model 3,522.11,269.55,1
+521,Pet Grooming Kit Pack 5,27.6,9.17,4
+522,Coffee Maker Series 4,124.67,60.6,3
+523,Knife Set Series 3,154.18,84.35,3
+524,Treadmill Pro 2,111.12,53.44,6
+525,Hiking Boots Pro 4,114.83,67.68,6
+526,Air Fryer Series 4,315.33,168.57,3
+527,Cookware Set Series 3,269.95,112.81,3
+528,Monitor Model 2,346.11,160.49,1
+529,Exercise Bike Pro 1,287.31,125.98,6
+530,Hiking Boots Pro 4,245.38,134.81,6
+531,Headphones Model 4,119.59,46.74,1
+532,Toaster Series 4,261.72,84.32,3
+533,Educational Toy Edition 5,52.06,23.53,5
+534,Yoga Mat Pro 5,39.93,23.58,6
+535,Exercise Bike Pro 5,202.31,65.85,6
+536,Skirt Style 2,79.7,24.97,2
+537,Yoga Mat Pro 3,290.74,124.77,6
+538,Smartphone Model 3,161.0,84.37,1
+539,Art Set Edition 5,37.68,15.53,5
+540,Pet Grooming Kit Pack 5,23.57,14.13,4
+541,Cat Food Pack 3,47.44,27.92,4
+542,Laptop Model 3,205.95,89.92,1
+543,Hoodie Style 4,49.83,16.41,2
+544,Dumbbell Set Pro 3,48.14,15.09,6
+545,Sleeping Bag Pro 1,259.28,128.19,6
+546,Backpack Pro 2,169.32,78.83,6
+547,Food Processor Series 4,312.54,115.5,3
+548,Pet Bed Pack 2,67.64,29.06,4
+549,Monitor Model 2,274.79,117.85,1
+550,Tablet Model 2,189.17,96.69,1
+551,Monitor Model 1,449.75,207.36,1
+552,Mixer Series 2,162.27,61.45,3
+553,Bird Cage Pack 3,63.73,30.81,4
+554,Board Game Edition 3,48.16,21.06,5
+555,Dress Style 5,74.02,37.13,2
+556,Blender Series 2,116.61,41.39,3
+557,Backpack Pro 5,134.89,64.6,6
+558,Stuffed Animal Edition 4,34.86,17.1,5
+559,Backpack Pro 5,75.05,29.02,6
+560,Skirt Style 4,76.94,43.06,2
+561,Power Bank Model 2,147.56,61.26,1
+562,Outdoor Play Set Edition 4,52.73,23.6,5
+563,Dumbbell Set Pro 4,75.16,35.3,6
+564,Dress Style 1,42.49,19.6,2
+565,Coat Style 5,89.25,47.28,2
+566,Outdoor Play Set Edition 1,65.82,25.04,5
+567,Remote Control Car Edition 5,85.81,26.81,5
+568,Dumbbell Set Pro 5,89.01,38.06,6
+569,Hiking Boots Pro 3,266.2,82.43,6
+570,Mixer Series 1,156.72,93.75,3
+571,Jacket Style 5,83.91,46.85,2
+572,Stuffed Animal Edition 2,69.29,37.1,5
+573,T-Shirt Style 5,50.08,19.25,2
+574,Action Figure Edition 3,98.32,38.13,5
+575,Puzzle Edition 5,98.84,49.79,5
+576,Laptop Model 4,509.38,304.48,1
+577,Backpack Pro 2,97.41,50.01,6
+578,Shorts Style 4,29.22,14.31,2
+579,Yoga Mat Pro 4,152.04,74.51,6
+580,Headphones Model 5,424.9,216.02,1
+581,Knife Set Series 4,123.19,37.05,3
+582,Sleeping Bag Pro 4,201.41,102.56,6
+583,Camera Model 4,158.91,68.16,1
+584,Coat Style 3,47.29,18.21,2
+585,Art Set Edition 2,65.29,29.09,5
+586,Coffee Maker Series 1,54.87,29.36,3
+587,Dog Food Pack 1,93.65,32.53,4
+588,Dog Food Pack 4,28.21,14.29,4
+589,Dress Style 2,102.44,57.67,2
+590,Bluetooth Speaker Model 3,91.21,45.55,1
+591,Backpack Pro 1,137.01,53.66,6
+592,Hiking Boots Pro 4,206.98,105.79,6
+593,Tablet Model 4,88.97,42.54,1
+594,Educational Toy Edition 1,20.65,8.32,5
+595,Headphones Model 2,288.85,106.49,1
+596,Smartphone Model 1,206.68,116.63,1
+597,Shorts Style 2,79.16,39.83,2
+598,Camera Model 5,54.24,26.85,1
+599,Collar Pack 2,66.53,22.98,4
+600,Pet Grooming Kit Pack 4,87.4,28.49,4
+601,Laptop Model 1,344.79,143.16,1
+602,Collar Pack 2,32.3,15.94,4
+603,Hoodie Style 5,75.0,36.17,2
+604,Tent Pro 3,85.47,41.2,6
+605,Shorts Style 3,79.62,42.61,2
+606,Coat Style 4,26.27,11.82,2
+607,Board Game Edition 5,91.1,27.66,5
+608,Mixer Series 2,141.05,77.82,3
+609,Collar Pack 5,71.46,37.79,4
+610,Wireless Earbuds Model 5,83.77,31.72,1
+611,Wireless Earbuds Model 4,303.31,148.19,1
+612,Stuffed Animal Edition 4,76.14,24.72,5
+613,Outdoor Play Set Edition 5,32.21,10.47,5
+614,Camera Model 2,537.16,186.19,1
+615,Cookware Set Series 5,215.29,118.49,3
+616,Sleeping Bag Pro 3,218.64,113.47,6
+617,T-Shirt Style 2,23.62,10.16,2
+618,Pet Grooming Kit Pack 5,14.95,7.47,4
+619,Backpack Pro 1,33.42,11.4,6
+620,Laptop Model 4,526.51,240.56,1
+621,Bicycle Pro 2,130.4,68.45,6
+622,Blender Series 1,125.5,53.81,3
+623,Board Game Edition 3,76.99,36.42,5
+624,Power Bank Model 4,305.39,96.7,1
+625,Action Figure Edition 3,32.58,17.33,5
+626,Board Game Edition 2,79.26,23.84,5
+627,Tablet Model 1,285.88,118.61,1
+628,Sweater Style 1,70.29,40.36,2
+629,Yoga Mat Pro 2,116.89,49.66,6
+630,Helmet Pro 3,253.02,119.29,6
+631,Camera Model 1,139.67,75.6,1
+632,Headphones Model 1,488.5,273.47,1
+633,Mixer Series 1,190.93,57.74,3
+634,Dress Style 5,93.45,48.77,2
+635,Coat Style 3,74.17,33.23,2
+636,Hoodie Style 2,30.06,17.43,2
+637,Tablet Model 5,223.21,123.18,1
+638,Bluetooth Speaker Model 1,429.46,177.32,1
+639,Bicycle Pro 1,85.4,50.81,6
+640,Aquarium Pack 1,97.53,33.42,4
+641,Blender Series 1,301.38,171.54,3
+642,Stuffed Animal Edition 3,56.68,29.72,5
+643,Board Game Edition 5,30.68,16.75,5
+644,Monitor Model 5,81.14,40.47,1
+645,Jacket Style 3,41.1,16.21,2
+646,Collar Pack 3,50.75,18.78,4
+647,Sweater Style 5,25.9,8.59,2
+648,Aquarium Pack 3,46.59,21.47,4
+649,Coat Style 3,61.33,34.08,2
+650,Laptop Model 3,463.19,235.79,1
+651,Tablet Model 3,124.16,63.74,1
+652,Cookware Set Series 5,39.69,15.47,3
+653,T-Shirt Style 4,100.46,46.89,2
+654,Doll Edition 1,56.96,30.82,5
+655,Jeans Style 1,21.17,11.31,2
+656,Sweater Style 2,97.37,40.08,2
+657,Sleeping Bag Pro 5,188.25,108.29,6
+658,Wireless Earbuds Model 1,148.88,73.52,1
+659,Jeans Style 3,27.25,15.88,2
+660,Laptop Model 5,266.58,137.91,1
+661,Dog Food Pack 4,71.49,25.15,4
+662,Sweater Style 3,42.99,24.29,2
+663,Monitor Model 5,358.49,177.16,1
+664,Pet Bowl Pack 5,53.11,17.33,4
+665,Pet Bed Pack 4,27.95,15.8,4
+666,Doll Edition 5,83.59,49.89,5
+667,Helmet Pro 4,177.02,78.85,6
+668,Outdoor Play Set Edition 3,51.07,18.08,5
+669,Vacuum Cleaner Series 2,33.79,18.35,3
+670,Coffee Maker Series 4,183.83,97.44,3
+671,Sweater Style 1,39.79,14.82,2
+672,Building Blocks Edition 2,66.06,39.29,5
+673,Collar Pack 2,25.85,12.35,4
+674,Helmet Pro 5,37.62,19.19,6
+675,Art Set Edition 2,65.05,23.19,5
+676,Bird Cage Pack 3,25.8,8.03,4
+677,Tablet Model 5,159.4,72.99,1
+678,Bluetooth Speaker Model 5,150.73,51.12,1
+679,Backpack Pro 3,46.08,15.87,6
+680,Backpack Pro 1,258.55,144.32,6
+681,Bluetooth Speaker Model 4,343.01,137.54,1
+682,Toaster Series 2,244.71,105.48,3
+683,Dumbbell Set Pro 3,77.03,45.5,6
+684,Treadmill Pro 3,90.27,43.03,6
+685,Shorts Style 3,88.4,34.33,2
+686,T-Shirt Style 5,54.16,32.4,2
+687,Building Blocks Edition 2,68.19,39.3,5
+688,Doll Edition 5,28.33,12.72,5
+689,Blender Series 2,129.04,51.08,3
+690,Sleeping Bag Pro 3,150.59,57.16,6
+691,Jeans Style 3,40.67,13.52,2
+692,Wireless Earbuds Model 4,269.11,114.61,1
+693,Shorts Style 4,103.18,41.83,2
+694,Cat Food Pack 4,80.99,38.34,4
+695,Hiking Boots Pro 2,151.85,81.96,6
+696,Smart Watch Model 1,209.36,122.58,1
+697,Bluetooth Speaker Model 2,493.97,172.04,1
+698,Camera Model 1,218.98,130.42,1
+699,Dog Food Pack 4,94.82,33.14,4
+700,Pet Bed Pack 1,19.11,6.91,4
